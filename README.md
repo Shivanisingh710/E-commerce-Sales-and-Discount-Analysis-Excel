@@ -115,11 +115,6 @@ This dashboard helps businesses:
 
 ---
 
-## Dashboard Preview
-![E-commerce Sales and Discount](images/E-commerce Sales and Discount Dashboard Screenshot.png)
-
----
-
 ## Future Improvements
 - Add profit margin analysis  
 - Include customer segmentation  
