@@ -116,7 +116,7 @@ This dashboard helps businesses:
 ---
 
 ## Dashboard Preview
-[Sales Analysis](images/sales_analysis.png)
+![E-commerce Sales and Discount](images/E-commerce Sales and Discount Dashboard Screenshot.png)
 
 ---
 
