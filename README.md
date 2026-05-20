@@ -116,7 +116,7 @@ This dashboard helps businesses:
 ---
 
 ## Dashboard Preview
-(Add screenshots here)
+[Sales Analysis](images/sales_analysis.png)
 
 ---
 
